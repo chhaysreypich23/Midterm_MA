@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Build outputs
+build/
+
+# Platform-specific build folders
+android/
+ios/
+windows/
+macos/
+linux/
+web/
